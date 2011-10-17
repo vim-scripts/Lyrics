@@ -1,0 +1,22 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3773
+
+Awesome plugin to view the lyrics of your favorite song without leaving VIM!
+
+1 - Install
+Put lyrics.vim in your ~/.vim/plugin folder.
+
+2 - How to use
+:Lyrics -> show the lyrics of the current song played in Rhythmbox.
+:SearchLyrics -> input: song-artist, show the lyrics of the song of your choice
+
+3 - Dependencies
+- wget in your path to download the lyrics from www.lyrics.com
+- Rhythmbox for the Lyrics command
+- vim 7
+
+4 - License
+GPLv2
+
+Tested on Ubuntu 10.04.
+:: Humberto H. C. Pinheiro ::
+
